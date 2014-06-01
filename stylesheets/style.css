@@ -15,3 +15,9 @@ body{
 .container{
 	min-height: 450px;
 }
+
+.image3{
+	width: 200px;
+	margin: 0 auto;
+	display: block;
+}
