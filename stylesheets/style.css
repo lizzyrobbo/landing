@@ -35,3 +35,18 @@ h1{
 h2{
 	color: #808080
 }
+
+.btn-primary{
+	margin:0 0 10px;
+	background-color: black;
+	border-color: gray;
+}
+
+.btn-primary:hover{
+	background-color: rgb(77,28,27);
+	border-color: gray;
+} 
+
+.center-align{
+	text-align: center;
+}
