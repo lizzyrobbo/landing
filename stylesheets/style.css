@@ -20,4 +20,18 @@ body{
 	width: 200px;
 	margin: 0 auto;
 	display: block;
+	padding: 10px;
+}
+
+.banner{
+	width: 100%;
+}
+
+h1{
+	color: rgb(77,28,27);
+	font-size: 54px;
+}
+
+h2{
+	color: #808080
 }
